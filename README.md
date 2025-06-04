@@ -12,6 +12,10 @@ It includes clean form validations and a user-friendly layout, making it perfect
 📞 Phone number input field with icon
 🔲 Styled form box with background design for better readability
 🚫 No hover effect on inputs for clean interaction
+live:  https://srivarshinirajeshkanna.github.io/elevate-6/
+
+
+
 
 🔧 Technologies Used
 1)HTML5
